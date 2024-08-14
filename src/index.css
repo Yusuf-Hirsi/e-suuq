@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#loader{
+    margin-top: 20%;
+    margin-left: 450px;
+}
